@@ -72,7 +72,7 @@ Stores the player's current high score.
 2. Clone this repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/bpetersen459/Python-Snake-Game.git
 ```
 
 3. Navigate into the project folder:
