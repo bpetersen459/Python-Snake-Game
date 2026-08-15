@@ -28,7 +28,7 @@ The game prevents the snake from immediately reversing into itself.
 ## Project Structure
 
 ```text
-snake-game/
+Python-Snake-Game/
 │
 ├── main.py
 ├── snake.py
@@ -78,7 +78,7 @@ git clone https://github.com/bpetersen459/Python-Snake-Game.git
 3. Navigate into the project folder:
 
 ```bash
-python-snake-game
+cd Python-Snake-Game
 ```
 
 4. Run the game:
